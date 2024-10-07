@@ -1,6 +1,6 @@
 # Excel Projects
 
-Here you'll find my projects on working with Excel for data analytics. Although few people use Excel for analytics nowadays, it is a good tool for understanding how to work with data, how to visualise and manipulate it. 
+Here you'll find my **learning** projects on working with Excel for data analytics. Although few people use Excel for analytics nowadays, it is a good tool for understanding how to work with data, how to visualise and manipulate it. 
 
 ## Superstore
 
